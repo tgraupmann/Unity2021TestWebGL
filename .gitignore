@@ -4,3 +4,8 @@ Build/
 Library/
 Logs/
 Packages/
+.vs/
+*.csproj
+UserSettings/
+Temp/
+obj/
